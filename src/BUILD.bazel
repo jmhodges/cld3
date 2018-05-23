@@ -80,4 +80,5 @@ cc_library(
         "script_span/utf8scannot_lettermarkspecial.h",
         "script_span/utf8statetable.h",
     ],
+    visibility = ["//visibility:public"],
 )
