@@ -22,7 +22,7 @@ limitations under the License.
 #include "language_identifier_features.h"
 #include "nnet_language_identifier.h"
 #include "script_span/generated_ulscript.h"
-#include "cld_3/protos/sentence.pb.h"
+#include "src/sentence.pb.h"
 #include "task_context.h"
 #include "utils.h"
 #include "workspace.h"

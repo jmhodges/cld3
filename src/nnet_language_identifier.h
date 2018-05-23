@@ -24,11 +24,11 @@ limitations under the License.
 #include "lang_id_nn_params.h"
 #include "language_identifier_features.h"
 #include "script_span/getonescriptspan.h"
-#include "cld_3/protos/sentence.pb.h"
+#include "src/sentence.pb.h"
 #include "sentence_features.h"
 #include "task_context.h"
 #include "task_context_params.h"
-#include "cld_3/protos/task_spec.pb.h"
+#include "src/task_spec.pb.h"
 #include "workspace.h"
 
 namespace chrome_lang_id {
